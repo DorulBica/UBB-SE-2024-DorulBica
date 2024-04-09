@@ -110,6 +110,31 @@ namespace UserManagement
             return true;
         }
 
+        public static UserAccount Login(string username, string password, List<UserAccount> existingAccounts)
+        {
+            foreach (UserAccount account in existingAccounts)
+            {
+                if (account.Username == username && account.Password == password)
+                {
+                    Console.WriteLine("Login successful!");
+                    return account;
+                }
+            }
+
+            Console.WriteLine("Invalid username or password. Please try again.");
+            return null;
+        }
+
+        public void UpdateProfile(string newPassword, string newEmailAddress, string newSocialMediaAccount)
+        {
+            // Update profile information
+            Password = newPassword;
+            EmailAddress = newEmailAddress;
+            SocialMediaAccount = newSocialMediaAccount;
+
+            Console.WriteLine("Profile updated successfully!");
+        }
+
         public override string ToString()
         {
             return $"Username: {Username}, Email Address: {EmailAddress}, Social Media Account: {SocialMediaAccount}, Banned: {Banned}, UserType: {UserType.Type}";
