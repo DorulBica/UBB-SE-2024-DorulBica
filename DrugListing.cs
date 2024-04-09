@@ -1,14 +1,15 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using UserManagement;
+using ProductManagement;
 
 
-namespace DrugListing
+namespace DrugListingManagement
 {
     public class DrugListings
     {
-        private List<Product> drugs;
-        private UserAccount dealer;
+        public List<Product> drugs;
+        public UserAccount dealer;
 
         public DrugListings(List<Product> drugs, UserAccount dealer)
         {
