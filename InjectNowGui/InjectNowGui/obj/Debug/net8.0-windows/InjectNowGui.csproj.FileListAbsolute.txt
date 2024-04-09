@@ -24,3 +24,5 @@ C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\ref\InjectNowGui.dll
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.g.cs
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.baml
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.g.cs
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.baml

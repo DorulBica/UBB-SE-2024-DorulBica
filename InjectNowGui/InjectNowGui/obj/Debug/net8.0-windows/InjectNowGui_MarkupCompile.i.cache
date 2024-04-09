@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\App.xaml
-4-858558086
+5-1350359327
 
-91558644589
+102048822573
 198915248976
-LogInWindow.xaml;MainWindow.xaml;SignUpPage.xaml;UserSettingWindow.xaml;
+LogInWindow.xaml;MainMenuWindow.xaml;MainWindow.xaml;SignUpPage.xaml;UserSettingWindow.xaml;
 
 True
 
