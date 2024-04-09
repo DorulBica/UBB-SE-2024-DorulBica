@@ -24,8 +24,8 @@
 
             <Label x:Name="MainTitleLabel" Grid.Column="0" Grid.Row="0" FontFamily="Brush Script MT" FontSize="45" HorizontalAlignment="Center" Background="#FFEE9191" Content="InjectNow💉" Foreground="WhiteSmoke"/>
             <Label x:Name="SignUpLabel" Grid.Column="0" Grid.Row="1" FontFamily="Microsoft Sans Serif" FontSize="30" Content="Log in" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="WhiteSmoke"/>
-            <TextBox x:Name="UsernameTextBox" Grid.Column="0" Grid.Row="2" Height="50" Width="300" FontFamily="Microsoft Sans Serif" Text="Username" SelectionOpacity="0" HorizontalAlignment="Center" VerticalAlignment="Center" />
-            <TextBox x:Name="PasswordTextBox" Grid.Column="0" Grid.Row="3" Height="50" Width="300" FontFamily="Microsoft Sans Serif" Text="Password" SelectionOpacity="0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBox x:Name="UsernameTextBox" Grid.Column="0" Grid.Row="2" Height="30" Width="300" FontFamily="Microsoft Sans Serif" Text="Username" SelectionOpacity="0" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBox x:Name="PasswordTextBox" Grid.Column="0" Grid.Row="3" Height="30" Width="300" FontFamily="Microsoft Sans Serif" Text="Password" SelectionOpacity="0" HorizontalAlignment="Center" VerticalAlignment="Center" />
             <Button x:Name="SignInButton" Grid.Column="0" Grid.Row="4" Height="30" Width="100" FontFamily="Microsoft Sans Serif" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Log In"/>
             <Label x:Name="SignUpNoAccountLabel" Grid.Column="0" Grid.Row="5" FontFamily="Microsoft Sans Serif" FontSize="23" Content="Don't have an account? Sign up" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="WhiteSmoke"/>
             <Button x:Name="SignUpButton" Grid.Column="1" Grid.Row="5" Height="30" Width="100" FontFamily="Microsoft Sans Serif" HorizontalAlignment="Left" VerticalAlignment="Center" Content="Sign Up"/>

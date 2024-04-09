@@ -23,5 +23,10 @@ namespace InjectNowGui
         {
             InitializeComponent();
         }
+
+        private void SignUpButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
