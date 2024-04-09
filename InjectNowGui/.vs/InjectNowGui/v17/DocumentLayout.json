@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\inject now\\injectnowgui\\injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
+              "RelativeToolTip": "InjectNowGui\\SignUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T11:19:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\App.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\App.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\App.xaml",
+              "RelativeToolTip": "InjectNowGui\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T10:38:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InjectNowGui\\LogInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml.cs",
+              "RelativeToolTip": "InjectNowGui\\LogInWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:34:41.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\LogInWindow.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
+              "RelativeToolTip": "InjectNowGui\\LogInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T10:34:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\MainWindow.xaml",
+              "RelativeToolTip": "InjectNowGui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T10:32:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InjectNowGui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\inject now\\InjectNowGui\\InjectNowGui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InjectNowGui\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:32:51.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
