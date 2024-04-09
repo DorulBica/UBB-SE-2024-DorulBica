@@ -77,4 +77,9 @@ public class Product
         Category = category;
         Quantity = quantity;
     }
+
+    public override string ToString()
+    {
+        return $"DrugID: {DrugID}, Drug Name: {DrugName}, Description: {Description}, Price: {Price}, Category: {Category.Type}, Quantity: {Quantity}";
+    }
 }

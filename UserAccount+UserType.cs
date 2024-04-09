@@ -108,4 +108,9 @@ public class UserAccount
         }
         return true;
     }
+
+    public override string ToString()
+    {
+        return $"Username: {Username}, Email Address: {EmailAddress}, Social Media Account: {SocialMediaAccount}, Banned: {Banned}, UserType: {UserType.Type}";
+    }
 }
