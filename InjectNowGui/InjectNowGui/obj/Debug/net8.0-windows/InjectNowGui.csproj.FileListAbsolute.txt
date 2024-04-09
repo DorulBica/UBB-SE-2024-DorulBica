@@ -26,3 +26,5 @@ C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.baml
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.g.cs
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.baml
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\DealersWindow.g.cs
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\DealersWindow.baml

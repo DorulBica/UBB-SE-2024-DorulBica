@@ -1,0 +1,52 @@
+﻿<Window x:Class="InjectNowGui.DealersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InjectNowGui"
+        mc:Ignorable="d"
+        Title="DealersWindow" Height="450" Width="800">
+    <Grid Background="#FFEE9191">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Drug Dealing:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalContentAlignment="Top" FontSize="20" Foreground="WhiteSmoke"/>
+        <Label Content="Drug Name:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Foreground="WhiteSmoke"/>
+
+        <TextBox x:Name="AddDrugNameTextBox" Grid.Row="0" Grid.Column="0" Text="Name" Width="150" Height="30" VerticalAlignment="Bottom"></TextBox>
+
+        <Label Content="Drug Description:" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Foreground="WhiteSmoke"/>
+
+        <TextBox x:Name="AddDrugDescriptionTextBox" Grid.Row="0" Grid.Column="1" Text="Description" Width="150" Height="30" VerticalAlignment="Bottom"></TextBox>
+
+        <Label Content="Drug Price:" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Foreground="WhiteSmoke"/>
+
+        <TextBox x:Name="AddDrugPriceTextBox" Grid.Row="0" Grid.Column="2" Text="Price" Width="150" Height="30" VerticalAlignment="Bottom"></TextBox>
+
+        <Label Content="Drug Category:" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Foreground="WhiteSmoke"/>
+
+        <TextBox x:Name="AddDrugCategoryTextBox" Grid.Row="1" Grid.Column="0" Text="Category" Width="150" Height="30" VerticalAlignment="Bottom"></TextBox>
+
+        <Label Content="Drug Quantity:" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Foreground="WhiteSmoke"/>
+
+        <TextBox x:Name="AddDrugQuantityTextBox" Grid.Row="1" Grid.Column="1" Text="Quantity" Width="150" Height="30" VerticalAlignment="Bottom"></TextBox>
+        <ListView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button x:Name="AddDrugButton" Content="Add Drug" Grid.Row="2" Grid.Column="2" Width="150" Height="30" VerticalAlignment="Top" Click="AddDrugButton_Click"></Button>
+        <Button x:Name="DeleteDrugButton" Content="Delete Drug" Grid.Row="2" Grid.Column="2" Width="150" Height="30" VerticalAlignment="Bottom" Click="DeleteDrugButton_Click"></Button>
+        <Button x:Name="UpdateDrugButton" Content="Update Drug" Grid.Row="2" Grid.Column="2" Width="150" Height="30" VerticalAlignment="Center" Click="UpdateDrugButton_Click"></Button>
+    </Grid>
+</Window>

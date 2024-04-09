@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InjectNowGui</id>
+    <version>1.0.0</version>
+    <authors>InjectNowGui</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.runtimeconfig.json" target="lib\net8.0-windows7.0\InjectNowGui.runtimeconfig.json" />
+    <file src="C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.dll" target="lib\net8.0-windows7.0\InjectNowGui.dll" />
+  </files>
+</package>
