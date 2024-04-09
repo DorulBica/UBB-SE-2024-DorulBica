@@ -22,3 +22,5 @@ C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.pdb
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.genruntimeconfig.cache
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\ref\InjectNowGui.dll
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.g.cs
+C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.baml
