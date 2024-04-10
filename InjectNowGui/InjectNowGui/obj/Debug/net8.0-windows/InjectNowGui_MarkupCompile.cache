@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\
+C:\Users\Sebastian\Documents\GitHub\InjectNow\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\
 InjectNowGui
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\App.xaml
-5-1350359327
+C:\Users\Sebastian\Documents\GitHub\InjectNow\InjectNowGui\InjectNowGui\App.xaml
+7-2021290716
 
-8-333841268
-198915248976
-LogInWindow.xaml;MainMenuWindow.xaml;MainWindow.xaml;SignUpPage.xaml;UserSettingWindow.xaml;
+19-1351669069
+219-1939511489
+App (2).xaml;Cart.xaml;LogInWindow.xaml;MainMenuWindow.xaml;MainWindow.xaml;SignUpPage.xaml;UserSettingWindow.xaml;
 
-False
+True
 

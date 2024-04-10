@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InjectNowGui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d54b252d10daae46c107db50457d97099ee098")]
 [assembly: System.Reflection.AssemblyProductAttribute("InjectNowGui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InjectNowGui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
