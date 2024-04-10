@@ -66,5 +66,6 @@
                 </ItemsControl.ItemTemplate>
             </ItemsControl>
         </Grid>
+        <Button Grid.Column="1" Content="Buy" HorizontalAlignment="Left" Margin="190,176,0,0" Grid.Row="1" VerticalAlignment="Top" Height="42" Width="71" Background="#FFEDAFAF"/>
     </Grid>
 </Window>
