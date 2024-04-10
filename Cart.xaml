@@ -33,17 +33,35 @@
         <Grid Grid.Row="1" Background="#FFF1BCBC" Margin="10,5,182,70" Grid.ColumnSpan="2">
             <Grid.RowDefinitions>
                 <RowDefinition Height="auto"/>
-                <RowDefinition Height="*"/>
                 <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <!--title-->
-            <StackPanel Orientation="Horizontal" Margin="0 40 0 30">
+            <!-- Title -->
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0 10 0 10">
                 <TextBlock Text="InjectNow" FontSize="28" FontWeight="DemiBold" FontFamily="Trebuchet MS" VerticalAlignment="Center" Margin="50 0 0 0"/>
                 <Rectangle VerticalAlignment="Stretch" Fill="Beige" Width="0.7" Margin="20 5 20 5"/>
                 <TextBlock Text="Your Cart" FontSize="26" VerticalAlignment="Center"/>
             </StackPanel>
-            <ItemsControl Grid.Row="1" Grid.ColumnSpan="2" ItemsSource="{Binding Products}">
-                <ItemsControl.ItemTemplate>
+            <!-- Column headers -->
+            <Grid Grid.Row="1" Background="#FFEDAFAF" Margin="0,45,0,229" Grid.RowSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="80"/>
+                    <ColumnDefinition Width="110"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Drug" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="5,10,10,0"/>
+                <TextBlock Grid.Column="1" Text="Description" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="5,10,10,0"/>
+                <TextBlock Grid.Column="2" Text="Price" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="20,10,75,0" Grid.ColumnSpan="2"/>
+                <TextBlock Grid.Column="2" Text="Category" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="90,10,108,0" Grid.ColumnSpan="3"/>
+                <TextBlock Grid.Column="4" Text="Quantity" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="15,10,0,0"/>
+            </Grid>
+
+            <!-- ListView -->
+            <ListView Grid.Row="2" ItemsSource="{Binding Products}" Background="#FFEDAFAF" Margin="0,36,0,-36">
+                <ListView.ItemTemplate>
                     <DataTemplate>
                         <Grid Background="#FFEDAFAF" Width="597" Margin="0,5">
                             <Grid.ColumnDefinitions>
@@ -54,18 +72,25 @@
                                 <ColumnDefinition Width="110"/>
                                 <ColumnDefinition Width="50"/>
                             </Grid.ColumnDefinitions>
-
                             <!-- Product details -->
                             <TextBlock Grid.Column="0" Text="{Binding DrugName}" FontSize="25" FontWeight="DemiBold" VerticalAlignment="Top" Margin="5,23,10,0"/>
                             <TextBlock Grid.Column="1" Text="{Binding Description}" FontSize="25" FontWeight="DemiBold" VerticalAlignment="Top" Margin="5,23,10,0"/>
                             <TextBlock Grid.Column="2" Text="{Binding Price, StringFormat={}{0:C}}" FontSize="25" FontWeight="DemiBold" VerticalAlignment="Top" Margin="5,23,10,0"/>
                             <TextBlock Grid.Column="3" Text="{Binding Category.Type}" FontSize="25" FontWeight="DemiBold" VerticalAlignment="Top" Margin="5,23,10,0"/>
                             <TextBlock Grid.Column="4" Text="{Binding Quantity}" FontSize="25" FontWeight="DemiBold" VerticalAlignment="Top" Margin="5,23,10,0"/>
+                            <!-- Add buttons for quantity control -->
+                            <Button Grid.Column="5" Style="{StaticResource buttonMiniQuantity}">
+                                <Image Width="25" Source="/images/mini-button.png" Height="32" Margin="0 20 0 0"/>
+                            </Button>
+                            <Button Grid.Column="5" Style="{StaticResource buttonPlusQuantity}">
+                                <Image Width="25" Source="/images/plus-button.png" Height="32" Margin="0 0 0 40"/>
+                            </Button>
                         </Grid>
                     </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+                </ListView.ItemTemplate>
+            </ListView>
         </Grid>
+
         <Button Grid.Column="1" Content="Buy" HorizontalAlignment="Left" Margin="190,176,0,0" Grid.Row="1" VerticalAlignment="Top" Height="42" Width="71" Background="#FFEDAFAF"/>
     </Grid>
 </Window>
