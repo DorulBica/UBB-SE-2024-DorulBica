@@ -23,5 +23,16 @@ namespace InjectNowGui
         {
             InitializeComponent();
         }
+        private void CartButton_Click (object sender, RoutedEventArgs e)
+        {
+            Cart cartWindow = new Cart();
+
+            // Show the Cart window
+            cartWindow.Show();
+
+            // Close the current MainMenuWindow
+            this.Close();
+
+        }
     }
 }
