@@ -125,7 +125,7 @@ namespace InjectNowGui {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/InjectNowGui;component/loginwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/InjectNowGui;V1.0.0.0;component/loginwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LogInWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
