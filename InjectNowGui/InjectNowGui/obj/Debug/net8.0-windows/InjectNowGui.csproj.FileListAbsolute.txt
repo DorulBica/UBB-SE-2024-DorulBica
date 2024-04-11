@@ -26,3 +26,61 @@ C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.baml
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.g.cs
 C:\Users\Badea Vlad\Desktop\inject now\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.csproj.AssemblyReference.cache
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\App (2).g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\Cart.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\LogInWindow.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\SignUpPage.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui_MarkupCompile.cache
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui_MarkupCompile.lref
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\refint\InjectNowGui.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.pdb
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.exe
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.deps.json
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.runtimeconfig.json
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\InjectNowGui.pdb
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Cloud.Location.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.LongRunning.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Grpc.Auth.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Grpc.Core.Api.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Grpc.Net.Client.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Grpc.Net.Common.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\System.Linq.Async.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\App (2).baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\Cart.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\LogInWindow.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainMenuWindow.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\SignUpPage.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\UserSettingWindow.baml
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.g.resources
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.AssemblyInfoInputs.cache
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.AssemblyInfo.cs
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.csproj.CoreCompileInputs.cache
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.sourcelink.json
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNo.DD281E2D.Up2Date
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\InjectNowGui.genruntimeconfig.cache
+C:\Users\Badea Vlad\Desktop\gitIss\InjectNowGui\InjectNowGui\obj\Debug\net8.0-windows\ref\InjectNowGui.dll

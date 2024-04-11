@@ -1,41 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\",
+  "WorkspaceRootPath": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\services\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\mainmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\mainmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\entities\\useraccount\u002Busertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\entities\\useraccount\u002Busertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\mainmenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\mainmenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\mainmenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\sebastian\\documents\\github\\injectnow\\injectnowgui\\injectnowgui\\usersettingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|c:\\users\\badea vlad\\desktop\\gitiss\\injectnowgui\\injectnowgui\\usersettingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FBE1A593-D2B2-4227-B3DE-A7F8D232DFD5}|InjectNowGui\\InjectNowGui.csproj|solutionrelative:injectnowgui\\usersettingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,113 +42,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FirebaseServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\services\\FirebaseServices.cs",
-              "RelativeDocumentMoniker": "InjectNowGui\\services\\FirebaseServices.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\services\\FirebaseServices.cs",
-              "RelativeToolTip": "InjectNowGui\\services\\FirebaseServices.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:43:54.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json",
-              "RelativeDocumentMoniker": "InjectNowGui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json",
-              "RelativeToolTip": "InjectNowGui\\injectnow-9d109-firebase-adminsdk-iu12g-bbe5277db7.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-10T08:43:35.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainMenuWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml.cs",
               "RelativeDocumentMoniker": "InjectNowGui\\MainMenuWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml.cs",
               "RelativeToolTip": "InjectNowGui\\MainMenuWindow.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBgAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T15:32:01.234Z"
+              "WhenOpened": "2024-04-11T10:32:28.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainMenuWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml",
-              "RelativeDocumentMoniker": "InjectNowGui\\MainMenuWindow.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainMenuWindow.xaml",
-              "RelativeToolTip": "InjectNowGui\\MainMenuWindow.xaml",
+              "Title": "UserAccount\u002BUserType.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\Entities\\UserAccount\u002BUserType.cs",
+              "RelativeDocumentMoniker": "InjectNowGui\\Entities\\UserAccount\u002BUserType.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\Entities\\UserAccount\u002BUserType.cs",
+              "RelativeToolTip": "InjectNowGui\\Entities\\UserAccount\u002BUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:13:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSettingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\UserSettingWindow.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\UserSettingWindow.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\UserSettingWindow.xaml",
+              "RelativeToolTip": "InjectNowGui\\UserSettingWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-09T15:07:54.707Z",
+              "WhenOpened": "2024-04-11T10:09:18.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "InjectNowGui\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "InjectNowGui\\SignUpPage.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA7wD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:08:43.02Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "InjectNowGui\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
+              "RelativeToolTip": "InjectNowGui\\SignUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T10:08:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InjectNowGui\\LogInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml.cs",
+              "RelativeToolTip": "InjectNowGui\\LogInWindow.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowCkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:04:38.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\App.xaml",
               "RelativeDocumentMoniker": "InjectNowGui\\App.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\App.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\App.xaml",
               "RelativeToolTip": "InjectNowGui\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-09T12:42:58.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T12:42:58.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserSettingWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\UserSettingWindow.xaml",
-              "RelativeDocumentMoniker": "InjectNowGui\\UserSettingWindow.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\UserSettingWindow.xaml",
-              "RelativeToolTip": "InjectNowGui\\UserSettingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-09T12:04:58.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUpPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
-              "RelativeDocumentMoniker": "InjectNowGui\\SignUpPage.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\SignUpPage.xaml",
-              "RelativeToolTip": "InjectNowGui\\SignUpPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-09T11:19:55.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LogInWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
               "RelativeDocumentMoniker": "InjectNowGui\\LogInWindow.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
+              "ToolTip": "C:\\Users\\Badea Vlad\\Desktop\\gitIss\\InjectNowGui\\InjectNowGui\\LogInWindow.xaml",
               "RelativeToolTip": "InjectNowGui\\LogInWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-09T10:34:33.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "InjectNowGui\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\InjectNow\\InjectNowGui\\InjectNowGui\\MainWindow.xaml",
-              "RelativeToolTip": "InjectNowGui\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-09T10:32:53.13Z"
             }
           ]
         }
